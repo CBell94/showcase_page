@@ -1,0 +1,14 @@
+{
+  "name": "showcase",
+  "version": "1.0.0",
+  "description": "a simple web pae to display information about yourself",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yourself"
+  ],
+  "author": "curdarious bell",
+  "license": "ISC"
+}

@@ -1,0 +1,81 @@
+/***********************************************
+Top bar color 
+***********************************************/
+
+html {
+    border-top: 20px solid gold;
+}
+
+
+/***********************************************
+Body styling 
+***********************************************/
+
+body {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px 20px;
+    font-size: 1.3em;
+    line-height: 1.6em;
+    font-family: 'Open Sans', sans-serif;
+    color: #777;
+    font-weight: 300;
+}
+
+
+/***********************************************
+Image styling 
+***********************************************/
+
+img {
+    border-radius: 100%;
+    max-width: 340px;
+}
+
+
+/***********************************************
+Headline styling 
+***********************************************/
+
+h1 {
+    font-size: 1.5em;
+    line-height: .5em;
+    color: gold;
+}
+
+h2 {
+    font-size: 1em;
+    line-height: 1em;
+    font-style: oblique;
+    color: #aaa;
+}
+
+h3 {
+    font-size: .875em;
+    line-height: 1em;
+    font-weight: normal;
+}
+
+h4 {
+    margin-top: 60px;
+    font-weight: 800;
+    color: gold;
+}
+
+p a {
+    text-decoration: none;
+    color: inherit;
+}
+
+ .profile-image {
+    margin-top: 50px;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid white;
+    transition: all .5s;
+}
+
+ .profile-image:hover {
+    transform: scale(1.2) rotate(5deg);
+}
